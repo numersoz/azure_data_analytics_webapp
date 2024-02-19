@@ -1,0 +1,15 @@
+# Web App Framework Requiremed Files:
+Flask==3.0.2
+plotly==5.19.0
+dash==2.15.0
+gunicorn==21.2.0
+
+# Azure required files:
+azure-identity==1.15.0
+azure-keyvault-secrets==4.7.0
+
+# Other Utilities:
+python-dotenv==1.0.1
+numpy==1.26.4
+pandas==2.2.0
+
